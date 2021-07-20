@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1537057601 source:c:\users\fernanda brizdo\desktop\ex1.5\main.cpp
+	<iostream>
+	<vector>
+	"SistemaAuto.h"
+
+1537057048 source:c:\users\fernanda brizdo\desktop\ex1.5\src\carros.cpp
+	"Carros.h"
+
+1537055003 c:\users\fernanda brizdo\desktop\ex1.5\include\carros.h
+	<string>
+	<iostream>
+
+1537056906 c:\users\fernanda brizdo\desktop\ex1.5\include\sistemaauto.h
+	<vector>
+	"Carros.h"
+	<stdlib.h>
+	<iostream>
+
+1537057622 source:c:\users\fernanda brizdo\desktop\ex1.5\src\sistemaauto.cpp
+	"SistemaAuto.h"
+
+1537057602 source:d:\prog 1,2 e 3\prog 3\ex1.5\main.cpp
+	<iostream>
+	<vector>
+	"SistemaAuto.h"
+
+1537056908 d:\prog 1,2 e 3\prog 3\ex1.5\include\sistemaauto.h
+	<vector>
+	"Carros.h"
+	<stdlib.h>
+	<iostream>
+
+1537055004 d:\prog 1,2 e 3\prog 3\ex1.5\include\carros.h
+	<string>
+	<iostream>
+
+1626823542 source:d:\prog 1,2 e 3\prog 3\ex1.5\src\carros.cpp
+	"Carros.h"
+
+1626823458 source:d:\prog 1,2 e 3\prog 3\ex1.5\src\sistemaauto.cpp
+	"SistemaAuto.h"
+
+1537057602 source:c:\users\feebr\desktop\cursos\programação ifsc\prog 1,2 e 3\prog 3\ex1.5\main.cpp
+	<iostream>
+	<vector>
+	"SistemaAuto.h"
+
+1537056908 c:\users\feebr\desktop\cursos\programação ifsc\prog 1,2 e 3\prog 3\ex1.5\include\sistemaauto.h
+	<vector>
+	"Carros.h"
+	<stdlib.h>
+	<iostream>
+
+1537055004 c:\users\feebr\desktop\cursos\programação ifsc\prog 1,2 e 3\prog 3\ex1.5\include\carros.h
+	<string>
+	<iostream>
+
+1626823542 source:c:\users\feebr\desktop\cursos\programação ifsc\prog 1,2 e 3\prog 3\ex1.5\src\carros.cpp
+	"Carros.h"
+
+1626823458 source:c:\users\feebr\desktop\cursos\programação ifsc\prog 1,2 e 3\prog 3\ex1.5\src\sistemaauto.cpp
+	"SistemaAuto.h"
+
